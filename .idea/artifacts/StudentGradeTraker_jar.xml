@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentGradeTraker:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="StudentGradeTraker_jar.jar">
+      <element id="module-output" name="StudentGradeTraker" />
+    </root>
+  </artifact>
+</component>
