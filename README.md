@@ -10,5 +10,4 @@ What I use :
 - Displaying all data in Table that make it simple for user .
 
 
-![https://raw.githubusercontent.com/abderrahimebelazreg/CodeAlpha_StudentGradeTraker/refs/heads/main/Screenshot_6.png…]()
-https://raw.githubusercontent.com/abderrahimebelazreg/CodeAlpha_StudentGradeTraker/refs/heads/main/Screenshot_6.png
+![image alt](https://github.com/abderrahimebelazreg/CodeAlpha_StudentGradeTraker/blob/main/Screenshot_6.png?raw=true)
